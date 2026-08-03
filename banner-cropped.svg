@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="63.6 42.00000000000001 1086 249.6" style="max-height: 500px" width="1086" height="249.6">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;family=Inter:wght@300;700&amp;display=swap');
+      .name { font-family: 'Inter', sans-serif; font-weight: 700; font-size: 52px; fill: #FFFFFF; letter-spacing: -1px; }
+      .accent { fill: #00D4FF; }
+      .tagline { font-family: 'JetBrains Mono', monospace; font-size: 18px; fill: #8B949E; font-weight: 400; }
+      .tag-highlight { fill: #00D4FF; }
+      .cursor { fill: #00D4FF; animation: blink 1.2s step-end infinite; }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      .circuit { stroke: #1C2A3A; stroke-width: 1; fill: none; }
+      .circuit-dot { fill: #1C2A3A; }
+      .circuit-accent { stroke: #003D5C; stroke-width: 1; fill: none; }
+      .status { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #3FB950; }
+      .status-dot { fill: #3FB950; }
+      .divider { stroke: #21262D; stroke-width: 1; }
+      .sub { font-family: 'Inter', sans-serif; font-size: 15px; fill: #6E7681; font-weight: 300; letter-spacing: 2px; text-transform: uppercase; }
+    </style>
+
+    
+    <pattern patternUnits="userSpaceOnUse" height="40" width="40" id="grid">
+      <path stroke-width="0.5" stroke="#111820" fill="none" d="M 40 0 L 0 0 0 40"/>
+    </pattern>
+  </defs>
+
+  
+  <rect fill="#0D1117" height="300" width="1200"/>
+  <rect opacity="0.6" fill="url(#grid)" height="300" width="1200"/>
+
+  
+  <g class="circuit">
+    <polyline points="0,60 80,60 80,40 160,40"/>
+    <polyline points="0,120 60,120 60,80 120,80 120,60 180,60"/>
+    <polyline points="0,200 100,200 100,180 140,180"/>
+    <polyline points="0,240 40,240 40,260 120,260 120,240 200,240"/>
+    <polyline points="60,300 60,280 100,280 100,260"/>
+    <polyline points="140,300 140,260"/>
+    <polyline points="200,300 200,240"/>
+  </g>
+  <g class="circuit-dot">
+    <circle r="2.5" cy="60" cx="80"/>
+    <circle r="2.5" cy="40" cx="160"/>
+    <circle r="2.5" cy="120" cx="60"/>
+    <circle r="2.5" cy="60" cx="120"/>
+    <circle r="2.5" cy="200" cx="100"/>
+    <circle r="2.5" cy="260" cx="120"/>
+  </g>
+
+  
+  <g class="circuit">
+    <polyline points="1200,80 1120,80 1120,60 1040,60"/>
+    <polyline points="1200,140 1140,140 1140,100 1080,100 1080,80 1020,80"/>
+    <polyline points="1200,200 1100,200 1100,220 1060,220"/>
+    <polyline points="1200,250 1160,250 1160,270 1080,270 1080,250 1000,250"/>
+    <polyline points="1140,300 1140,270"/>
+    <polyline points="1060,300 1060,270"/>
+    <polyline points="1000,300 1000,250"/>
+  </g>
+  <g class="circuit-dot">
+    <circle r="2.5" cy="80" cx="1120"/>
+    <circle r="2.5" cy="60" cx="1040"/>
+    <circle r="2.5" cy="140" cx="1140"/>
+    <circle r="2.5" cy="80" cx="1080"/>
+    <circle r="2.5" cy="200" cx="1100"/>
+    <circle r="2.5" cy="270" cx="1080"/>
+  </g>
+
+  
+  <line opacity="0.15" stroke-width="1" stroke="#00D4FF" y2="240" x2="240" y1="60" x1="240"/>
+
+  
+  <line opacity="0.15" stroke-width="1" stroke="#00D4FF" y2="240" x2="960" y1="60" x1="960"/>
+
+  
+  
+  <text class="sub" text-anchor="middle" y="95" x="600">Full Stack Developer in progress</text>
+
+  
+  <text class="name" text-anchor="middle" y="168" x="600">
+    Sushil <tspan class="accent">Dive</tspan>
+  </text>
+
+  
+  <text class="tagline" text-anchor="middle" y="210" x="600">
+    <tspan class="tag-highlight">~/</tspan> MERN + AI · DSA Daily · Building in public
+    <tspan class="cursor">▋</tspan>
+  </text>
+
+  
+  <line class="divider" y2="238" x2="820" y1="238" x1="380"/>
+  <circle class="status-dot" r="4" cy="258" cx="490"/>
+  <text class="status" y="263" x="502">Open to opportunities · Nashik, India</text>
+
+  
+  <circle opacity="0.3" fill="#00D4FF" r="3" cy="150" cx="260"/>
+  <circle opacity="0.3" fill="#00D4FF" r="3" cy="150" cx="940"/>
+</svg>
