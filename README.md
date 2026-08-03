@@ -20,12 +20,12 @@
 
 ```
 BSc Computer Science (2026) · Nashik, India
-Self-teaching MERN + AI development full-time
+Self-teaching MERN + AI development
 Solving DSA daily · Building in public · Open to first dev role
 ```
 
 Started with Python, got pulled into web dev, chose to go deep on fundamentals before frameworks.
-Every project here was built to understand *why* something works — not just that it works.
+<br>Every project here was built to understand **WHY** something works — not just that it works.
 
 ---
 
@@ -109,7 +109,7 @@ Every project here was built to understand *why* something works — not just th
 Daily practice on LearnYard → then NeetCode 150
 Approach: pattern-first · cluster by type · spaced repetition
 Patterns: Arrays · Strings · Two Pointers · Sliding Window
-          Binary Search · Linked Lists · Stacks · Queues · Trees · Graphs
+          Binary Search ·[ Heading towards-> Linked Lists · Stacks · Queues · Trees · Graphs ]
 ```
 
 ---
