@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sushildive012/sushildive012/main/banner.svg" alt="Sushil Dive — MERN + AI Developer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sushildive012/sushildive012/main/banner-cropped.svg" alt="Sushil Dive — MERN + AI Developer" width="100%"/>
 </div>
 
 <br>
