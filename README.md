@@ -1,4 +1,4 @@
-![logo](https://github.com/sushildive012/myintroduction/blob/main/profile12.jpg)
+![logo](https://github.com/sushildive012/myintroduction/blob/main/banner.svg)
 <h1 align="center">Hi 👋, I'm Sushil Dive</h1>
 <h3 align="center">An aspiring Web developer from India</h3>
 
