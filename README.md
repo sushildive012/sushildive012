@@ -1,21 +1,126 @@
-![logo](https://github.com/sushildive012/myintroduction/blob/main/banner.svg)
-<h1 align="center">Hi 👋, I'm Sushil Dive</h1>
-<h3 align="center">An aspiring Web developer from India</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sushildive012/sushildive012/main/banner.svg" alt="Sushil Dive — MERN + AI Developer" width="100%"/>
+</div>
 
-## 💫 About Me:
-So I have been always attracted to the power of IT industry which can create an impact on millions of lives on earth in few seconds. Although I started my coding journey with python language, being a self-learner, I got more inclined towards Web Development.<br>🌱 I’m currently learning Web Development<br>⚡ Fun fact : I used to think that coding would be boring.
+<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushildive) 
+<div align="center">
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sushildive012&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sushildive012&theme=yeblu&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushildive012&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushildive)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushildive012)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300D4FF.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+</div>
+
+<br>
 
 ---
+
+### `> whoami`
+
+```
+BSc Computer Science (2026) · Nashik, India
+Self-teaching MERN + AI development full-time
+Solving DSA daily · Building in public · Open to first dev role
+```
+
+Started with Python, got pulled into web dev, chose to go deep on fundamentals before frameworks.
+Every project here was built to understand *why* something works — not just that it works.
+
+---
+
+### `> tech --current`
+
+<div align="center">
+
+**Comfortable with**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Actively learning**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**On the roadmap**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!--![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)-->
+
+</div>
+
+---
+
+### `> ls projects/`
+
+| Project | Core concept practiced | Stack | Deploy |
+|---|---|---|---|
+| 🖥️ **Lumina SaaS Dashboard** | Mobile first responsive nav with scroll-lock · CSS `:has()` overlay · z-index layering · `clamp()` | HTML · CSS · JS | [Live ↗](https://sushildive012.github.io/SAAS-Responsive-Dashboard-UI) · [Code ↗](https://github.com/sushildive012/SAAS-Responsive-Dashboard-UI) |
+| 🧮 **Calculator** | JS state management — no `eval()` · operator precedence logic . modular state engine | HTML · CSS · JS | [Live ↗](https://sushildive012.github.io/mycalculator/) · [Code ↗](https://github.com/sushildive012/mycalculator) |
+| ✅ **To-Do App** | DOM events · localStorage · CRUD without a framework | HTML · CSS · JS | [Live ↗](https://sushildive012.github.io/ToDoList/) · [Code ↗](https://github.com/sushildive012/ToDoList) |
+| 🗂️ **Practice Projects** | Small focused exercises — one concept per build | HTML · CSS · JS | [Repo ↗](https://github.com/sushildive012/) |
+
+> *New projects added monthly as I progress through the MERN roadmap*
+
+---
+
+### `> git stats --user sushildive012`
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=sushildive012&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sushildive012&theme=yeblu&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushildive012&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+### `> dsa --practice`
+
+<div align="center">
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+```
+Daily practice on LearnYard → then NeetCode 150
+Approach: pattern-first · cluster by type · spaced repetition
+Patterns: Arrays · Strings · Two Pointers · Sliding Window
+          Binary Search · Linked Lists · Stacks · Queues · Trees · Graphs
+```
+
+---
+
+<div align="center">
+
+*"Building toward my first developer role — one project, one pattern, one day at a time."*
+
+<br>
+<div align="center"> <sub>Nashik → Pune → wherever the work is good · Building publicly · Open for opportunities</sub> </div>
+
 [![](https://visitcount.itsvg.in/api?id=sushildive012&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
