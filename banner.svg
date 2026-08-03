@@ -1,0 +1,97 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;family=Inter:wght@300;700&amp;display=swap');
+      .name { font-family: 'Inter', sans-serif; font-weight: 700; font-size: 52px; fill: #FFFFFF; letter-spacing: -1px; }
+      .accent { fill: #00D4FF; }
+      .tagline { font-family: 'JetBrains Mono', monospace; font-size: 18px; fill: #8B949E; font-weight: 400; }
+      .tag-highlight { fill: #00D4FF; }
+      .cursor { fill: #00D4FF; animation: blink 1.2s step-end infinite; }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      .circuit { stroke: #1C2A3A; stroke-width: 1; fill: none; }
+      .circuit-dot { fill: #1C2A3A; }
+      .circuit-accent { stroke: #003D5C; stroke-width: 1; fill: none; }
+      .status { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #3FB950; }
+      .status-dot { fill: #3FB950; }
+      .divider { stroke: #21262D; stroke-width: 1; }
+      .sub { font-family: 'Inter', sans-serif; font-size: 15px; fill: #6E7681; font-weight: 300; letter-spacing: 2px; text-transform: uppercase; }
+    </style>
+
+    <!-- subtle grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#111820" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="#0D1117"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.6"/>
+
+  <!-- Circuit board lines — left side -->
+  <g class="circuit">
+    <polyline points="0,60 80,60 80,40 160,40"/>
+    <polyline points="0,120 60,120 60,80 120,80 120,60 180,60"/>
+    <polyline points="0,200 100,200 100,180 140,180"/>
+    <polyline points="0,240 40,240 40,260 120,260 120,240 200,240"/>
+    <polyline points="60,300 60,280 100,280 100,260"/>
+    <polyline points="140,300 140,260"/>
+    <polyline points="200,300 200,240"/>
+  </g>
+  <g class="circuit-dot">
+    <circle cx="80" cy="60" r="2.5"/>
+    <circle cx="160" cy="40" r="2.5"/>
+    <circle cx="60" cy="120" r="2.5"/>
+    <circle cx="120" cy="60" r="2.5"/>
+    <circle cx="100" cy="200" r="2.5"/>
+    <circle cx="120" cy="260" r="2.5"/>
+  </g>
+
+  <!-- Circuit board lines — right side -->
+  <g class="circuit">
+    <polyline points="1200,80 1120,80 1120,60 1040,60"/>
+    <polyline points="1200,140 1140,140 1140,100 1080,100 1080,80 1020,80"/>
+    <polyline points="1200,200 1100,200 1100,220 1060,220"/>
+    <polyline points="1200,250 1160,250 1160,270 1080,270 1080,250 1000,250"/>
+    <polyline points="1140,300 1140,270"/>
+    <polyline points="1060,300 1060,270"/>
+    <polyline points="1000,300 1000,250"/>
+  </g>
+  <g class="circuit-dot">
+    <circle cx="1120" cy="80" r="2.5"/>
+    <circle cx="1040" cy="60" r="2.5"/>
+    <circle cx="1140" cy="140" r="2.5"/>
+    <circle cx="1080" cy="80" r="2.5"/>
+    <circle cx="1100" cy="200" r="2.5"/>
+    <circle cx="1080" cy="270" r="2.5"/>
+  </g>
+
+  <!-- Subtle left accent line -->
+  <line x1="240" y1="60" x2="240" y2="240" stroke="#00D4FF" stroke-width="1" opacity="0.15"/>
+
+  <!-- Subtle right accent line -->
+  <line x1="960" y1="60" x2="960" y2="240" stroke="#00D4FF" stroke-width="1" opacity="0.15"/>
+
+  <!-- Center content -->
+  <!-- Eyebrow label -->
+  <text x="600" y="95" text-anchor="middle" class="sub">Full Stack Developer in progress</text>
+
+  <!-- Main name -->
+  <text x="600" y="168" text-anchor="middle" class="name">
+    Sushil <tspan class="accent">Dive</tspan>
+  </text>
+
+  <!-- Tagline with terminal style -->
+  <text x="600" y="210" text-anchor="middle" class="tagline">
+    <tspan class="tag-highlight">~/</tspan> MERN + AI · DSA Daily · Building in public
+    <tspan class="cursor">▋</tspan>
+  </text>
+
+  <!-- Status bar -->
+  <line x1="380" y1="238" x2="820" y2="238" class="divider"/>
+  <circle cx="490" cy="258" r="4" class="status-dot"/>
+  <text x="502" y="263" class="status">Open to opportunities · Nashik, India</text>
+
+  <!-- Corner accent dots -->
+  <circle cx="260" cy="150" r="3" fill="#00D4FF" opacity="0.3"/>
+  <circle cx="940" cy="150" r="3" fill="#00D4FF" opacity="0.3"/>
+</svg>
