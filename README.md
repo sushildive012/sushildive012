@@ -16,7 +16,9 @@
 
 ---
 
-### `> whoami`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF88&center=true&vCenter=true&width=435&lines=%3E+whoami" />
+</div>
 
 ```
 BSc Computer Science (2026) · Nashik, India
@@ -26,10 +28,13 @@ Solving DSA daily · Building in public · Open to first dev role
 
 Started with Python, got pulled into web dev, chose to go deep on fundamentals before frameworks.
 <br>Every project here was built to understand **WHY** something works — not just that it works.
+<br>Claude, ChatGPT, and Google AI Mode sit alongside my stack too — used to debug faster, sanity-check concepts, and plan my learning map.
 
 ---
 
-### `> tech --current`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF88&center=true&vCenter=true&width=435&lines=%3E+tech+--current" />
+</div>
 
 <div align="center">
 
@@ -57,6 +62,12 @@ Started with Python, got pulled into web dev, chose to go deep on fundamentals b
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+**AI toolkit**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Google AI Mode](https://img.shields.io/badge/Google_AI_Mode-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 **Tools**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -69,7 +80,9 @@ Started with Python, got pulled into web dev, chose to go deep on fundamentals b
 
 ---
 
-### `> ls projects/`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF88&center=true&vCenter=true&width=435&lines=%3E+ls+projects%2F" />
+</div>
 
 | Project | Core concept practiced | Stack | Deploy |
 |---|---|---|---|
@@ -82,7 +95,9 @@ Started with Python, got pulled into web dev, chose to go deep on fundamentals b
 
 ---
 
-### `> git stats --user sushildive012`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF88&center=true&vCenter=true&width=435&lines=	%3E+git+stats+--user+sushildive012" />
+</div>
 
 <div align="center">
 
@@ -96,7 +111,9 @@ Started with Python, got pulled into web dev, chose to go deep on fundamentals b
 
 ---
 
-### `> dsa --practice`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF88&center=true&vCenter=true&width=435&lines=%3E+dsa+--practice" />
+</div>
 
 <div align="center">
 
