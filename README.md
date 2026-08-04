@@ -26,9 +26,9 @@ Self-teaching MERN + AI development
 Solving DSA daily · Building in public · Open to first dev role
 ```
 
-Started with Python, got pulled into web dev, chose to go deep on fundamentals before frameworks.
-<br>Every project here was built to understand **WHY** something works — not just that it works.
-<br>Claude, ChatGPT, and Google AI Mode sit alongside my stack too — used to debug faster, sanity-check concepts, and plan my learning map.
+- Started with Python, got pulled into web dev, chose to go deep on fundamentals before frameworks.
+- Every project here was built to understand <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=100&color=F7DF1E&center=true&vCenter=true&width=40&height=14&lines=why" alt="WHY"/>something works — not just that it works.
+- Claude, ChatGPT, and Google AI Mode sit alongside my stack too — used to debug faster, sanity-check concepts, and plan my learning map.
 
 ---
 
@@ -95,16 +95,16 @@ Started with Python, got pulled into web dev, chose to go deep on fundamentals b
 
 ---
 
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF88&center=true&vCenter=true&width=435&lines=	%3E+git+stats+--user+sushildive012" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF88&center=true&vCenter=true&width=600&lines=%3E+git+stats+--user+sushildive012" />
 </div>
 
+<!--tokyonight, radical, dracula, nord, gruvbox, github_dark, monokai, vision-friendly-dark-->
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=sushildive012&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sushildive012&theme=yeblu&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushildive012&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
