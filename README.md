@@ -90,7 +90,7 @@ Solving DSA daily · Building in public · Open to first dev role
 | 🧮 **Calculator** | JS state management — no `eval()` · operator precedence logic . modular state engine | HTML · CSS · JS | [Live ↗](https://sushildive012.github.io/mycalculator/) · [Code ↗](https://github.com/sushildive012/mycalculator) |
 | ✅ **To-Do App** | DOM events · localStorage · CRUD without a framework | HTML · CSS · JS | [Live ↗](https://sushildive012.github.io/ToDoList/) · [Code ↗](https://github.com/sushildive012/ToDoList) |
 | 🔁 **Live Currency Converter** | fetch API . `async-await` . JSON . **Debouncing** . Closures . Session/Local Storage .  `Dark/Light` theme mode | HTML · CSS · JS | [Live ↗](https://sushildive012.github.io/LiveCurrencyConverter/) · [Code ↗](https://github.com/sushildive012/LiveCurrencyConverter) |
-
+| 🌦️ **Weather API App** | Chained async APIs (geocode → forecast) · guard clauses · per-error-type handling | HTML · CSS · JS | [Live ↗](https://sushildive012.github.io/MyCurrentWeatherAPI/) · [Code ↗](https://github.com/sushildive012/MyCurrentWeatherAPI) |
 | 🗂️ **Practice Projects** | Small focused exercises — one concept per build | HTML · CSS · JS | [Repo ↗](https://github.com/sushildive012/) |
 
 > *New projects added monthly as I progress through the MERN roadmap*
